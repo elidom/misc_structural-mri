@@ -1,2 +1,2 @@
 # structural-mri
-Scripts for the processing of MRI data
+Scripts for the processing of structural MRI data
